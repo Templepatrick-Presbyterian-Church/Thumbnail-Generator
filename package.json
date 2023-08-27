@@ -1,0 +1,22 @@
+{
+  "name": "thumbnail-generator",
+  "version": "1.0.0",
+  "description": "This is the code that is used to generate the thumbnails that are seen on our [YouTube channel](https://www.youtube.com/@TemplepatrickPCI).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Templepatrick-Presbyterian-Church/Thumbnail-Generator.git"
+  },
+  "author": "Jamie Wright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Templepatrick-Presbyterian-Church/Thumbnail-Generator/issues"
+  },
+  "homepage": "https://github.com/Templepatrick-Presbyterian-Church/Thumbnail-Generator#readme",
+  "devDependencies": {
+    "electron": "^26.1.0"
+  }
+}
